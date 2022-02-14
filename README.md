@@ -1,6 +1,7 @@
 - 😄 Enjoying coding
 - 🤔 Most commonly used python 
 - 🔗 Good at Devops
+- 📄 This my [Blog](yanbo92.site)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbo92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
