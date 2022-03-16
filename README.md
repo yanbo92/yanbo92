@@ -1,6 +1,6 @@
 - 👈 My Maine Coon
-- 😄 Enjoying coding
-- 🤔 Most commonly used python 
+- 👨‍💻 Enjoying coding
+- 🐍 Most commonly used python 
 - 🔗 Good at Devops
 - 📄 This my [Blog](https://yanbo92.site)
 
