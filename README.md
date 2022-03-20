@@ -4,7 +4,9 @@
 - 🔗 Good at Devops
 - 📄 This my [Blog](https://yanbo92.site)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yanbo92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![yanbo92's github stats](https://github-readme-stats.vercel.app/api?username=yanbo92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+![yanbo92's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanbo92&exclude_repo=yanbo92.github.io&hide=html,css,java,less&langs_count=8&layout=compact&card_width=445&theme=radical)
 
 <!--
 **yanbo92/yanbo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
